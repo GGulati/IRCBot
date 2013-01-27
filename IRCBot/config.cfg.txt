@@ -1,0 +1,5 @@
+﻿garr
+FailBot
+irc.awfulnet.org
+6667
+#testbot
