@@ -1,5 +1,4 @@
-﻿garr
-FailBot
-irc.awfulnet.org
+username
+BotNick
+irc.mywebsite.com
 6667
-#testbot
